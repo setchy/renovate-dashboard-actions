@@ -3,7 +3,7 @@
   "version": "latest",
   "type": "module",
   "engines": {
-    "node": ">=24"
+    "node": "v25.2.1"
   },
   "dependencies": {
     "@iconify-json/line-md": "1.2.11",
